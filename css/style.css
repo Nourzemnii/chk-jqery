@@ -1,0 +1,20 @@
+ 
+#paragraph {
+    width:200px;
+    padding:90px;
+    margin:auto;
+    background-color:white;
+    margin-left: 400px;
+    margin-right: 400px;
+    color: black;  
+    padding-top: 20px;
+    padding-right: 100px;
+    
+}
+body{
+    color: grey;
+}
+#bg{
+    background-color: grey;
+    
+}
